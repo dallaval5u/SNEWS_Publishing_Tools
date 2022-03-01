@@ -1,0 +1,2 @@
+If you don't have an hop broker id, you can publish all locally and it should not make any difference so far you are testing things.
+To go local, you should change the environment file you are using (don't use the default one). Use the example.env file instead, you can source it or add the --env example.env flag
